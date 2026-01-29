@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme_en = """# Beta Bank — Customer Churn Prediction 🏦📉
+# Beta Bank — Customer Churn Prediction 🏦📉
 
 This project builds and evaluates **classification models** to predict whether a Beta Bank customer is likely to **leave the bank (churn)**.  
 The goal is to help the business focus **retention efforts** on customers at higher risk.
